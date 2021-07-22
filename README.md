@@ -2,6 +2,7 @@
 #
 <details>
   <summary><b>📊 Github Stats</b></summary>
+  <br>
   <img alt="Ihsan's github stats" src="https://github-readme-stats.vercel.app/api?username=Noth3r&show_icons=true&theme=vision-friendly-dark&count_private=true&hide=issues&include_all_commits=true"/><br>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noth3r&theme=vision-friendly-dark&layout=compact"/>
 </details>
